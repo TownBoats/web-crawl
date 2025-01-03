@@ -11,10 +11,10 @@ def get_movies():
     movies_data = []
 
     # 遍历所有页面
-    for start in range(0, 250, 25):
-        # 构造每页的URL
+    for page in range(10):  # 0-9 共10页
+        start = page * 25
         url = f"{base_url}?start={start}"
-        print(f"正在爬取第{start//25 + 1}页...")
+        print(f"正在爬取第{page + 1}页...")
         
         try:
             response = requests.get(url, headers=headers)
@@ -22,23 +22,22 @@ def get_movies():
             movie_list = soup.find_all('div', class_='item')
 
             for movie in movie_list:
+                # 直接从电影条目的序号标签获取排名
+                rank = movie.find('em').text
                 title = movie.find('span', class_='title').text
                 info = movie.find('div', class_='bd').find('p').text.strip()
                 rating = movie.find('span', class_='rating_num').text
-                # 获取评价人数
                 vote_count = movie.find('div', class_='star').find_all('span')[-1].text.strip('人评价')
-                # 获取一句话评价（如果有的话）
                 quote = movie.find('span', class_='inq')
                 quote = quote.text if quote else "无"
 
                 info_split = info.split('\n')
                 director = info_split[0].split('导演: ')[-1].split('主')[0].strip()
                 year = info_split[1].strip().split('/')[0].strip()
-                # 获取国家/地区
                 country = info_split[1].strip().split('/')[-2].strip()
                 
                 movie_dict = {
-                    '排名': start + len(movies_data) + 1,
+                    '排名': int(rank),  # 转换为整数以确保排序正确
                     '电影名': title,
                     '导演': director,
                     '年份': year,
@@ -49,15 +48,15 @@ def get_movies():
                 }
                 movies_data.append(movie_dict)
 
-            # 添加延时
-            # time.sleep(1)
+            time.sleep(1)
             
         except Exception as e:
-            print(f"爬取第{start//25 + 1}页时出错：{str(e)}")
+            print(f"爬取第{page + 1}页时出错：{str(e)}")
             continue
 
-    # 保存数据
+    # 将数据转换为DataFrame并按排名排序
     df = pd.DataFrame(movies_data)
+    df = df.sort_values(by='排名')  # 确保按排名排序
     df.to_csv('douban_movies_full.csv', index=False, encoding='utf-8-sig')
     return df
 
