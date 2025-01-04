@@ -11,7 +11,9 @@ def get_paper_details(ieee_url):
     
     # 使用 BeautifulSoup 解析页面内容
     soup = BeautifulSoup(response.text, 'html.parser')
-    
+    # # 保存 response 的内容到文件
+    with open(f"paper-soup.html", "w", encoding="utf-8") as soupfile:
+        soupfile.write(soup.prettify())
     # 提取标题
     title_tag = soup.find('h1', class_='document-title')
     if title_tag:
@@ -41,7 +43,7 @@ def get_paper_details(ieee_url):
     }
 
 # 示例使用
-ieee_url = "https://ieeexplore.ieee.org/document/10669790"  # 替换为具体的 IEEE URL
+ieee_url = "https://doi.org/10.1109/TVCG.2024.3456332"  # 替换为具体的 IEEE URL
 paper_details = get_paper_details(ieee_url)
 
 print("Paper Details:")

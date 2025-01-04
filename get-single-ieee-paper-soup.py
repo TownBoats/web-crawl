@@ -1,3 +1,4 @@
+#这个文件使用soup把html的内容保存到本地，html骨架中有需要的内容，验证了爬取的可行性
 import requests
 from bs4 import BeautifulSoup
 import csv

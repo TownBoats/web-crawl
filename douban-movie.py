@@ -21,6 +21,16 @@ def get_movies():
             soup = BeautifulSoup(response.text, 'html.parser')
             movie_list = soup.find_all('div', class_='item')
 
+            # # 保存 response 的内容到文件
+            # with open(f"douban_top250_pages/response_page_{page + 1}.html", "w", encoding="utf-8") as response_file:
+            #     response_file.write(response.text)
+            
+            # # 保存 soup 的内容到文件
+            # with open(f"douban_top250_pages/soup_page_{page + 1}.html", "w", encoding="utf-8") as soup_file:
+            #     soup_file.write(soup.prettify())
+            
+            # print(movie_list)
+
             for movie in movie_list:
                 # 直接从电影条目的序号标签获取排名
                 rank = movie.find('em').text
