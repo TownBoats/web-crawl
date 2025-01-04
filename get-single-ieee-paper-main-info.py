@@ -5,7 +5,7 @@ import re
 import json
 
 def get_paper_details(ieee_url):
-    """从 IEEE Xplore 页面提取论文的标题、摘要和关键词"""
+    """从 IEEE Xplore 页面提取论文的标题、摘要、关键词和作者信息"""
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
     }
@@ -18,7 +18,8 @@ def get_paper_details(ieee_url):
         return {
             'title': "No Title Found",
             'abstract': "No Abstract Found",
-            'keywords': "No Keywords Found"
+            'keywords': "No Keywords Found",
+            'authors': "No Authors Found"
         }
     
     # 使用 BeautifulSoup 解析页面内容
@@ -32,10 +33,11 @@ def get_paper_details(ieee_url):
     title_tag = soup.find('title')  # 找到 <title> 标签
     title = title_tag.text.split('|')[0].strip() if title_tag else "No Title Found"
     
-    # 提取摘要和关键词
+    # 提取摘要、关键词和作者信息
     script_tag = soup.find('script', string=re.compile(r'xplGlobal\.document\.metadata='))
     abstract = "No Abstract Found"
     keywords = "No Keywords Found"
+    authors = "No Authors Found"
     
     if script_tag:
         script_content = script_tag.string
@@ -53,6 +55,13 @@ def get_paper_details(ieee_url):
                     ieee_keywords = next((kw['kwd'] for kw in metadata.get('keywords', []) if kw['type'] == 'IEEE Keywords'), [])
                     keywords = ', '.join(ieee_keywords) if ieee_keywords else "No Keywords Found"
                     
+                    # 提取作者信息
+                    authors_list = metadata.get('authors', [])
+                    if authors_list:
+                        authors = ', '.join([author['name'] for author in authors_list])
+                    else:
+                        authors = "No Authors Found"
+                    
                 except json.JSONDecodeError as e:
                     print("JSON 解码失败:", e)
     
@@ -60,16 +69,18 @@ def get_paper_details(ieee_url):
     paper_details = {
         'title': title,
         'abstract': abstract,
-        'keywords': keywords
+        'keywords': keywords,
+        'authors': authors
     }
     
     return paper_details
 
 # 示例使用
-ieee_url = "https://ieeexplore.ieee.org/document/10670523"  # 替换为具体的 IEEE URL
+ieee_url = "https://ieeexplore.ieee.org/document/10673998"  # 替换为具体的 IEEE URL
 paper_details = get_paper_details(ieee_url)
 
 print("Paper Details:")
 print(f"Title: {paper_details['title']}")
 print(f"Abstract: {paper_details['abstract']}")
 print(f"Keywords: {paper_details['keywords']}")
+print(f"Authors: {paper_details['authors']}")
