@@ -1,0 +1,800 @@
+{
+    "journal_info": {
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics, Volume 31",
+        "volume": "SPARQL queries"
+    },
+    "papers": [
+        {
+            "title": "2024 VGTC Visualization Lifetime Achievement Award.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3473189",
+            "authors": "Hans-Christian Hege, Min Chen",
+            "year": "2025"
+        },
+        {
+            "title": "Uncertainty-Aware Deep Neural Representations for Visual Analysis of Vector Field Data.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456360",
+            "authors": "Atul Kumar, Siddharth Garg, Soumya Dutta",
+            "year": "2025"
+        },
+        {
+            "title": "Welcome: Message from the VIS 2024 General Chairs.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3473129",
+            "authors": "Paul Rosen, Kristi Potter, Remco Chang",
+            "year": "2025"
+        },
+        {
+            "title": "2024 VGTC Visualization Service Award.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3473208",
+            "authors": "Maria Vélez",
+            "year": "2025"
+        },
+        {
+            "title": "2024 VGTC Visualization Dissertation Award.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3473168",
+            "authors": "Lin Yan",
+            "year": "2025"
+        },
+        {
+            "title": "2024 VGTC Visualization Significant New Researcher Award.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3473335",
+            "authors": "Dominik Moritz, Mennatallah El-Assady",
+            "year": "2025"
+        },
+        {
+            "title": "Preface.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3473148",
+            "authors": "Tamara Munzner, Niklas Elmqvist, Holger Theisel, Matthew Kay, Adam Perer, Tatiana von Landesberger, Jiawan Zhang, Christoph Garth, Chaoli Wang, Pierre Dragicevic, Daniel F. Keefe, Filip Sadlo, Ivan Viola, Wenwen Dou, Steffen Koch",
+            "year": "2025"
+        },
+        {
+            "title": "2024 VGTC Visualization Technical Achievement Award.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3473368",
+            "authors": "Han-Wei Shen, Bongshin Lee",
+            "year": "2025"
+        },
+        {
+            "title": "Message from the Editor-in-Chief.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3473068",
+            "authors": "Han-Wei Shen",
+            "year": "2025"
+        },
+        {
+            "title": "Team-Scouter: Simulative Visual Analytics of Soccer Player Scouting.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456216",
+            "authors": "Anqi Cao, Xiao Xie, Runjin Zhang, Yuxin Tian, Mu Fan, Hui Zhang, Yingcai Wu",
+            "year": "2025"
+        },
+        {
+            "title": "Sportify: Question Answering with Embedded Visualizations and Personified Narratives for Sports Video.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456332",
+            "authors": "Chunggi Lee, Tica Lin, Hanspeter Pfister, Zhu-Tian Chen",
+            "year": "2025"
+        },
+        {
+            "title": "Smartboard: Visual Exploration of Team Tactics with LLM Agent.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456200",
+            "authors": "Ziao Liu, Xiao Xie, Moqi He, Wenshuo Zhao, Yihong Wu, Liqi Cheng, Hui Zhang, Yingcai Wu",
+            "year": "2025"
+        },
+        {
+            "title": "Who Let the Guards Out: Visual Support for Patrolling Games.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456306",
+            "authors": "Matej Lang, Adam J. Stepanek, Róbert Zvara, Vojtech Rehák, Barbora Kozlíková",
+            "year": "2025"
+        },
+        {
+            "title": "Interactive Design-of-Experiments: Optimizing a Cooling System.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456356",
+            "authors": "Rainer Splechtna, Majid Behravan, Mario Jelovic, Denis Gracanin, Helwig Hauser, Kresimir Matkovic",
+            "year": "2025"
+        },
+        {
+            "title": "DaedalusData: Exploration, Knowledge Externalization and Labeling of Particles in Medical Manufacturing - A Design Study.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456329",
+            "authors": "Alexander Wyss, Gabriela Morgenshtern, Amanda Hirsch-Hüsler, Jürgen Bernard",
+            "year": "2025"
+        },
+        {
+            "title": "DITTO: A Visual Digital Twin for Interventions and Temporal Treatment Outcomes in Head and Neck Cancer.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456160",
+            "authors": "Andrew Wentzel, Serageldin Attia, Xinhua Zhang, Guadalupe Canahuate, Clifton David Fuller, G. Elisabeta Marai",
+            "year": "2025"
+        },
+        {
+            "title": "Objective Lagrangian Vortex Cores and their Visual Representations.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456384",
+            "authors": "Tobias Günther, Holger Theisel",
+            "year": "2025"
+        },
+        {
+            "title": "Localized Evaluation for Constructing Discrete Vector Fields.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456355",
+            "authors": "Tanner Finken, Julien Tierny, Joshua A. Levine",
+            "year": "2025"
+        },
+        {
+            "title": "A Practical Solver for Scalar Data Topological Simplification.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456345",
+            "authors": "Mohamed Kissi, Mathieu Pont, Joshua A. Levine, Julien Tierny",
+            "year": "2025"
+        },
+        {
+            "title": "Uncertainty Visualization of Critical Points of 2D Scalar Fields for Parametric and Nonparametric Probabilistic Models.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456393",
+            "authors": "Tushar M. Athawale, Zhe Wang, David Pugmire, Kenneth Moreland, Qian Gong, Scott Klasky, Chris R. Johnson, Paul Rosen",
+            "year": "2025"
+        },
+        {
+            "title": "HuBar: A Visual Analytics Tool to Explore Human Behavior Based on fNIRS in AR Guidance Systems.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456388",
+            "authors": "Sonia Castelo, João Rulff, Parikshit Solunke, Erin McGowan, Guande Wu, Irán R. Román, Roque Lopez, Bea Steers, Qi Sun, Juan Pablo Bello, Bradley Feest, Michael Middleton, Ryan Mckendrick, Cláudio T. Silva",
+            "year": "2025"
+        },
+        {
+            "title": "MSz: An Efficient Parallel Algorithm for Correcting Morse-Smale Segmentations in Error-Bounded Lossy Compressors.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456337",
+            "authors": "Yuxiao Li, Xin Liang, Bei Wang, Yongfeng Qiu, Lin Yan, Hanqi Guo",
+            "year": "2025"
+        },
+        {
+            "title": "Fast Comparative Analysis of Merge Trees Using Locality Sensitive Hashing.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456383",
+            "authors": "Weiran Lyu, Raghavendra Sridharamurthy, Jeff M. Phillips, Bei Wang",
+            "year": "2025"
+        },
+        {
+            "title": "Distributed Augmentation, Hypersweeps, and Branch Decomposition of Contour Trees for Scientific Exploration.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456322",
+            "authors": "Mingzhe Li, Hamish A. Carr, Oliver Rübel, Bei Wang, Gunther H. Weber",
+            "year": "2025"
+        },
+        {
+            "title": "Motion-Based Visual Encoding Can Improve Performance on Perceptual Tasks with Dynamic Time Series.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456405",
+            "authors": "Songwen Hu, Ouxun Jiang, Jeffrey Riedmiller, Cindy Xiong Bearfield",
+            "year": "2025"
+        },
+        {
+            "title": "User Experience of Visualizations in Motion: A Case Study and Design Considerations.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456319",
+            "authors": "Lijie Yao, Federica Bucchieri, Victoria McArthur, Anastasia Bezerianos, Petra Isenberg",
+            "year": "2025"
+        },
+        {
+            "title": "Blowing Seeds Across Gardens: Visualizing Implicit Propagation of Cross-Platform Social Media Posts.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456181",
+            "authors": "Jianing Yin, Hanze Jia, Buwei Zhou, Tan Tang, Lu Ying, Shuainan Ye, Tai-Quan Peng, Yingcai Wu",
+            "year": "2025"
+        },
+        {
+            "title": "UnDRground Tubes: Exploring Spatial Data with Multidimensional Projections and Set Visualization.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456314",
+            "authors": "Nikolaus Piccolotto, Markus Wallinger, Silvia Miksch, Markus Bögl",
+            "year": "2025"
+        },
+        {
+            "title": "DimBridge: Interactive Explanation of Visual Patterns in Dimensionality Reductions with Predicate Logic.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456391",
+            "authors": "Brian Montambault, Gabriel Appleby, Jen Rogers, Camelia D. Brumar, Mingwei Li, Remco Chang",
+            "year": "2025"
+        },
+        {
+            "title": "2D Embeddings of Multi-Dimensional Partitionings.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456394",
+            "authors": "Marina Evers, Lars Linsen",
+            "year": "2025"
+        },
+        {
+            "title": "TopoMap++: A Faster and More Space Efficient Technique to Compute Projections with Topological Guarantees.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456365",
+            "authors": "Vitória Guardieiro, Felipe Inagaki de Oliveira, Harish Doraiswamy, Luis Gustavo Nonato, Cláudio T. Silva",
+            "year": "2025"
+        },
+        {
+            "title": "BEMTrace: Visualization-Driven Approach for Deriving Building Energy Models from BIM.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456315",
+            "authors": "Andreas Walch, Attila Szabó, Harald Steinlechner, Thomas Ortner, Eduard Gröller, Johanna Schmidt",
+            "year": "2025"
+        },
+        {
+            "title": "CSLens: Towards Better Deploying Charging Stations via Visual Analytics - a Coupled Networks Perspective.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456392",
+            "authors": "Yutian Zhang, Liwen Xu, Shaocong Tao, Quanxue Guan, Quan Li, Haipeng Zeng",
+            "year": "2025"
+        },
+        {
+            "title": "SimpleSets: Capturing Categorical Point Patterns with Simple Shapes.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456168",
+            "authors": "Steven van den Broek, Wouter Meulemans, Bettina Speckmann",
+            "year": "2025"
+        },
+        {
+            "title": "Visualizing Temporal Topic Embeddings with a Compass.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456143",
+            "authors": "Daniel Palamarchuk, Lemara Williams, Brian Mayer, Thomas Danielson, Rebecca Faust, Larry M. Deschaine, Chris North",
+            "year": "2025"
+        },
+        {
+            "title": "A General Framework for Comparing Embedding Visualizations Across Class-Label Hierarchies.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456370",
+            "authors": "Trevor Manz, Fritz Lekschas, Evan Greene, Greg Finak, Nils Gehlenborg",
+            "year": "2025"
+        },
+        {
+            "title": "ModalChorus: Visual Probing and Alignment of Multi-Modal Embeddings via Modal Fusion Map.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456387",
+            "authors": "Yilin Ye, Shishi Xiao, Xingchen Zeng, Wei Zeng",
+            "year": "2025"
+        },
+        {
+            "title": "A Large-Scale Sensitivity Analysis on Latent Embeddings and Dimensionality Reductions for Text Spatializations.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456308",
+            "authors": "Daniel Atzberger, Tim Cech, Willy Scheibel, Jürgen Döllner, Michael Behrisch, Tobias Schreck",
+            "year": "2025"
+        },
+        {
+            "title": "PUREsuggest: Citation-Based Literature Search and Visual Exploration with Keyword-Controlled Rankings.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456199",
+            "authors": "Fabian Beck",
+            "year": "2025"
+        },
+        {
+            "title": "Mixing Linters with GUIs: A Color Palette Design Probe.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456317",
+            "authors": "Andrew M. McNutt, Maureen C. Stone, Jeffrey Heer",
+            "year": "2025"
+        },
+        {
+            "title": "Dynamic Color Assignment for Hierarchical Data.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456386",
+            "authors": "Jiashu Chen, Weikai Yang, Zelin Jia, Lanxi Xiao, Shixia Liu",
+            "year": "2025"
+        },
+        {
+            "title": "Shape It Up: An Empirically Grounded Approach for Designing Shape Palettes.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456385",
+            "authors": "Chin Tseng, Arran Zeyu Wang, Ghulam Jilani Quadri, Danielle Albers Szafir",
+            "year": "2025"
+        },
+        {
+            "title": "A Qualitative Analysis of Common Practices in Annotations: A Taxonomy and Design Space.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456359",
+            "authors": "Md Dilshadur Rahman, Ghulam Jilani Quadri, Bhavana Doppalapudi, Danielle Albers Szafir, Paul Rosen",
+            "year": "2025"
+        },
+        {
+            "title": "The Language of Infographics: Toward Understanding Conceptual Metaphor Use in Scientific Storytelling.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456327",
+            "authors": "Hana Pokojná, Tobias Isenberg, Stefan Bruckner, Barbora Kozlíková, Laura A. Garrison",
+            "year": "2025"
+        },
+        {
+            "title": "From Instruction to Insight: Exploring the Functional and Semantic Roles of Text in Interactive Dashboards.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456601",
+            "authors": "Nicole Sultanum, Vidya Setlur",
+            "year": "2025"
+        },
+        {
+            "title": "\"I Came Across a Junk\": Understanding Design Flaws of Data Visualization from the Public's Perspective.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456341",
+            "authors": "Xingyu Lan, Yu Liu",
+            "year": "2025"
+        },
+        {
+            "title": "CataAnno: An Ancient Catalog Annotator for Annotation Cleaning by Recommendation.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456379",
+            "authors": "Hanning Shao, Xiaoru Yuan",
+            "year": "2025"
+        },
+        {
+            "title": "What Can Interactive Visualization Do for Participatory Budgeting in Chicago?",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456343",
+            "authors": "Alex Kale, Danni Liu, Maria Gabriela Ayala, Harper Schwab, Andrew McNutt",
+            "year": "2025"
+        },
+        {
+            "title": "The Backstory to \"Swaying the Public\": A Design Chronicle of Election Forecast Visualizations.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456366",
+            "authors": "Fumeng Yang, Mandi Cai, Chloe Mortenson, Hoda Fakhari, Ayse D. Lokmanoglu, Nicholas Diakopoulos, Erik C. Nisbet, Matthew Kay",
+            "year": "2025"
+        },
+        {
+            "title": "Visualization Atlases: Explaining and Exploring Complex Topics Through Data, Visualization, and Narration.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456311",
+            "authors": "Jinrui Wang, Xinhuan Shu, Benjamin Bach, Uta Hinrichs",
+            "year": "2025"
+        },
+        {
+            "title": "Defogger: A Visual Analysis Approach for Data Exploration of Sensitive Data Protected by Differential Privacy.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456304",
+            "authors": "Xumeng Wang, Shuangcheng Jiao, Chris Bryan",
+            "year": "2025"
+        },
+        {
+            "title": "Learnable and Expressive Visualization Authoring Through Blended Interfaces.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456598",
+            "authors": "Sehi L'Yi, Astrid van den Brandt, Etowah Adams, Huyen N. Nguyen, Nils Gehlenborg",
+            "year": "2025"
+        },
+        {
+            "title": "PhenoFlow: A Human-LLM Driven Visual Analytics System for Exploring Large and Complex Stroke Datasets.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456215",
+            "authors": "Jaeyoung Kim, Sihyeon Lee, Hyeon Jeon, Keon-Joo Lee, Hee-Joon Bae, Bohyoung Kim, Jinwook Seo",
+            "year": "2025"
+        },
+        {
+            "title": "Towards Dataset-Scale and Feature-Oriented Evaluation of Text Summarization in Large Language Model Prompts.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456398",
+            "authors": "Sam Yu-Te Lee, Aryaman Bahukhandi, Dongyu Liu, Kwan-Liu Ma",
+            "year": "2025"
+        },
+        {
+            "title": "AdversaFlow: Visual Red Teaming for Large Language Models with Multi-Level Adversarial Flow.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456150",
+            "authors": "Dazhen Deng, Chuhan Zhang, Huawei Zheng, Yuwen Pu, Shouling Ji, Yingcai Wu",
+            "year": "2025"
+        },
+        {
+            "title": "LLM Comparator: Interactive Analysis of Side-by-Side Evaluation of Large Language Models.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456354",
+            "authors": "Minsuk Kahng, Ian Tenney, Mahima Pushkarna, Michael Xieyang Liu, James Wexler, Emily Reif, Krystal Kallarackal, Minsuk Chang, Michael Terry, Lucas Dixon",
+            "year": "2025"
+        },
+        {
+            "title": "Fine-Tuned Large Language Model for Visualization System: A Study on Self-Regulated Learning in Education.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456145",
+            "authors": "Lin Gao, Jing Lu, Zekai Shao, Ziyue Lin, Shengbin Yue, Chiokit Leong, Yi Sun, Rory James Zauner, Zhongyu Wei, Siming Chen",
+            "year": "2025"
+        },
+        {
+            "title": "Advancing Multimodal Large Language Models in Chart Question Answering with Visualization-Referenced Instruction Tuning.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456159",
+            "authors": "Xingchen Zeng, Haichuan Lin, Yilin Ye, Wei Zeng",
+            "year": "2025"
+        },
+        {
+            "title": "How Aligned are Human Chart Takeaways and LLM Predictions? A Case Study on Bar Charts with Varying Layouts.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456378",
+            "authors": "Huichen Will Wang, Jane Hoffswell, Sao Myat Thazin Thane, Victor S. Bursztyn, Cindy Xiong Bearfield",
+            "year": "2025"
+        },
+        {
+            "title": "KNowNEt:Guided Health Information Seeking from LLMs via Knowledge Graph Integration.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456364",
+            "authors": "Youfu Yan, Yu Hou, Yongkang Xiao, Rui Zhang, Qianwen Wang",
+            "year": "2025"
+        },
+        {
+            "title": "DiffFit: Visually-Guided Differentiable Fitting of Molecule Structures to a Cryo-EM Map.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456404",
+            "authors": "Deng Luo, Zainab Alsuwaykit, Dawar Khan, Ondrej Strnad, Tobias Isenberg, Ivan Viola",
+            "year": "2025"
+        },
+        {
+            "title": "Cell2Cell: Explorative Cell Interaction Analysis in Multi-Volumetric Tissue Data.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456406",
+            "authors": "Eric Mörth, Kevin Sidak, Zoltan Maliga, Torsten Möller, Nils Gehlenborg, Peter K. Sorger, Hanspeter Pfister, Johanna Beyer, Robert Krüger",
+            "year": "2025"
+        },
+        {
+            "title": "Visual Support for the Loop Grafting Workflow on Proteins.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456401",
+            "authors": "Filip Opálený, Pavol Ulbrich, Joan Planas-Iglesias, Jan Byska, Jan Stourac, David Bednár, Katarína Furmanová, Barbora Kozlíková",
+            "year": "2025"
+        },
+        {
+            "title": "CompositingVis: Exploring Interactions for Creating Composite Visualizations in Immersive Environments.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456210",
+            "authors": "Qian Zhu, Tao Lu, Shunan Guo, Xiaojuan Ma, Yalong Yang",
+            "year": "2025"
+        },
+        {
+            "title": "Precise Embodied Data Selection with Haptic Feedback while Retaining Room-Scale Visualisation Context.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456399",
+            "authors": "Shaozhang Dai, Yi Li, Barrett Ens, Lonni Besançon, Tim Dwyer",
+            "year": "2025"
+        },
+        {
+            "title": "StyleRF-VolVis: Style Transfer of Neural Radiance Fields for Expressive Volume Visualization.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456342",
+            "authors": "Kaiyuan Tang, Chaoli Wang",
+            "year": "2025"
+        },
+        {
+            "title": "ParamsDrag: Interactive Parameter Space Exploration via Image-Space Dragging.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456338",
+            "authors": "Guan Li, Yang Liu, Guihua Shan, Shiyu Cheng, Weiqun Cao, Junpeng Wang, Ko-Chih Wang",
+            "year": "2025"
+        },
+        {
+            "title": "SurroFlow: A Flow-Based Surrogate Model for Parameter Space Exploration and Uncertainty Quantification.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456372",
+            "authors": "Jingyi Shen, Yuhan Duan, Han-Wei Shen",
+            "year": "2025"
+        },
+        {
+            "title": "Regularized Multi-Decoder Ensemble for an Error-Aware Scene Representation Network.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456357",
+            "authors": "Tianyu Xiong, Skylar W. Wurster, Hanqi Guo, Tom Peterka, Han-Wei Shen",
+            "year": "2025"
+        },
+        {
+            "title": "Visual Analysis of Multi-Outcome Causal Graphs.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456346",
+            "authors": "Mengjie Fan, Jinlu Yu, Daniel Weiskopf, Nan Cao, Huai-Yu Wang, Liang Zhou",
+            "year": "2025"
+        },
+        {
+            "title": "Structure-Aware Simplification for Hypergraph Visualization.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456367",
+            "authors": "Peter Oliver, Eugene Zhang, Yue Zhang",
+            "year": "2025"
+        },
+        {
+            "title": "Does This Have a Particular Meaning? Interactive Pattern Explanation for Network Visualizations.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456192",
+            "authors": "Xinhuan Shu, Alexis Pister, Junxiu Tang, Fanny Chevalier, Benjamin Bach",
+            "year": "2025"
+        },
+        {
+            "title": "AdaMotif: Graph Simplification via Adaptive Motif Design.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456321",
+            "authors": "Hong Zhou, Peifeng Lai, Zhida Sun, Xiangyuan Chen, Yang Chen, Huisi Wu, Yong Wang",
+            "year": "2025"
+        },
+        {
+            "title": "HiRegEx: Interactive Visual Query and Exploration of Multivariate Hierarchical Data.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456389",
+            "authors": "Guozheng Li, Haotian Mi, Chi Harold Liu, Takayuki Itoh, Guoren Wang",
+            "year": "2025"
+        },
+        {
+            "title": "DracoGPT: Extracting Visualization Design Preferences from Large Language Models.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456350",
+            "authors": "Huichen Will Wang, Mitchell Gordon, Leilani Battle, Jeffrey Heer",
+            "year": "2025"
+        },
+        {
+            "title": "D-Tour: Semi-Automatic Generation of Interactive Guided Tours for Visualization Dashboard Onboarding.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456347",
+            "authors": "Vaishali Dhanoa, Andreas P. Hinterreiter, Vanessa Fediuk, Niklas Elmqvist, Eduard Gröller, Marc Streit",
+            "year": "2025"
+        },
+        {
+            "title": "Manipulable Semantic Components: A Computational Representation of Data Visualization Scenes.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456296",
+            "authors": "Zhicheng Liu, Chen Chen, John Hooker",
+            "year": "2025"
+        },
+        {
+            "title": "Unmasking Dunning-Kruger Effect in Visual Reasoning & Judgment.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456326",
+            "authors": "Mengyu Chen, Yijun Liu, Emily Wall",
+            "year": "2025"
+        },
+        {
+            "title": "Trust Your Gut: Comparing Human and Machine Inference from Noisy Visualizations.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456182",
+            "authors": "Ratanond Koonchanok, Michael E. Papka, Khairi Reda",
+            "year": "2025"
+        },
+        {
+            "title": "Causal Priors and Their Influence on Judgements of Causality in Visualized Data.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456381",
+            "authors": "Arran Zeyu Wang, David Borland, Tabitha C. Peck, Wenyuan Wang, David Gotz",
+            "year": "2025"
+        },
+        {
+            "title": "Beyond Correlation: Incorporating Counterfactual Guidance to Better Support Exploratory Visual Analysis.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456369",
+            "authors": "Arran Zeyu Wang, David Borland, David Gotz",
+            "year": "2025"
+        },
+        {
+            "title": "Beware of Validation by Eye: Visual Validation of Linear Trends in Scatterplots.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456305",
+            "authors": "Daniel Braun, Remco Chang, Michael Gleicher, Tatiana von Landesberger",
+            "year": "2025"
+        },
+        {
+            "title": "VMC: A Grammar for Visualizing Statistical Model Checks.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456402",
+            "authors": "Ziyang Guo, Alex Kale, Matthew Kay, Jessica Hullman",
+            "year": "2025"
+        },
+        {
+            "title": "Compress and Compare: Interactively Evaluating Efficiency and Behavior Across ML Model Compression Experiments.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456371",
+            "authors": "Angie Boggust, Venkatesh Sivaraman, Yannick Assogba, Donghao Ren, Dominik Moritz, Fred Hohman",
+            "year": "2025"
+        },
+        {
+            "title": "ParetoTracker: Understanding Population Dynamics in Multi-Objective Evolutionary Algorithms Through Visual Analytics.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456142",
+            "authors": "Zherui Zhang, Fan Yang, Ran Cheng, Yuxin Ma",
+            "year": "2025"
+        },
+        {
+            "title": "Revealing Interaction Dynamics: Multi-Level Visual Exploration of User Strategies with an Interactive Digital Environment.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456187",
+            "authors": "Peilin Yu, Aida Nordman, Marta Koc-Januchta, Konrad J. Schönborn, Lonni Besançon, Katerina Vrotsou",
+            "year": "2025"
+        },
+        {
+            "title": "A Multi-Level Task Framework for Event Sequence Analysis.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456510",
+            "authors": "Kazi Tasnim Zinat, Saimadhav Naga Sakhamuri, Aaron Sun Chen, Zhicheng Liu",
+            "year": "2025"
+        },
+        {
+            "title": "Towards Enhancing Low Vision Usability of Data Charts on Smartphones.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456348",
+            "authors": "Yash Prakash, Pathan Aseef Khan, Akshay Kolgar Nayak, Sampath Jayarathna, Hae Na Lee, Vikas Ashok",
+            "year": "2025"
+        },
+        {
+            "title": "When Refreshable Tactile Displays Meet Conversational Agents: Investigating Accessible Data Presentation and Analysis with Touch and Speech.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456358",
+            "authors": "Samuel Reinders, Matthew Butler, Ingrid Zukerman, Bongshin Lee, Lizhen Qu, Kim Marriott",
+            "year": "2025"
+        },
+        {
+            "title": "Touching the Ground: Evaluating the Effectiveness of Data Physicalizations for Spatial Data Analysis Tasks.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456377",
+            "authors": "Bridger Herman, Cullen D. Jackson, Daniel F. Keefe",
+            "year": "2025"
+        },
+        {
+            "title": "Evaluating Force-Based Haptics for Immersive Tangible Interactions with Surface Visualizations.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456316",
+            "authors": "Hamza Afzaal, Usman R. Alim",
+            "year": "2025"
+        },
+        {
+            "title": "SpatialTouch: Exploring Spatial Data Visualizations in Cross-Reality.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456368",
+            "authors": "Lixiang Zhao, Tobias Isenberg, Fuqi Xie, Hai-Ning Liang, Lingyun Yu",
+            "year": "2025"
+        },
+        {
+            "title": "StuGPTViz: A Visual Analytics Approach to Understand Student-ChatGPT Interactions.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456363",
+            "authors": "Zixin Chen, Jiachen Wang, Meng Xia, Kento Shigyo, Dingdong Liu, Rong Zhang, Huamin Qu",
+            "year": "2025"
+        },
+        {
+            "title": "SLInterpreter: An Exploratory and Iterative Human-AI Collaborative System for GNN-Based Synthetic Lethal Prediction.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456325",
+            "authors": "Haoran Jiang, Shaohan Shi, Shuhao Zhang, Jie Zheng, Quan Li",
+            "year": "2025"
+        },
+        {
+            "title": "A Deixis-Centered Approach for Documenting Remote Synchronous Communication Around Data Visualizations.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456351",
+            "authors": "Chang Han, Katherine E. Isaacs",
+            "year": "2025"
+        },
+        {
+            "title": "Talk to the Wall: The Role of Speech Interaction in Collaborative Visual Analytics.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456335",
+            "authors": "Gabriela Molina León, Anastasia Bezerianos, Olivier Gladin, Petra Isenberg",
+            "year": "2025"
+        },
+        {
+            "title": "DeLVE into Earth's Past: A Visualization-Based Exhibit Deployed Across Multiple Museum Contexts.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456174",
+            "authors": "Mara Solen, Nigar Sultana, Laura Lukes, Tamara Munzner",
+            "year": "2025"
+        },
+        {
+            "title": "Telling Data Stories with the Hero's Journey: Design Guidance for Creating Data Videos.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456330",
+            "authors": "Zheng Wei, Huamin Qu, Xian Xu",
+            "year": "2025"
+        },
+        {
+            "title": "DG Comics: Semi-Automatically Authoring Graph Comics for Dynamic Graphs.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456340",
+            "authors": "Joohee Kim, Hyunwook Lee, Duc M. Nguyen, Minjeong Shin, Bum Chul Kwon, Sungahn Ko, Niklas Elmqvist",
+            "year": "2025"
+        },
+        {
+            "title": "Impact of Vertical Scaling on Normal Probability Density Function Plots.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456396",
+            "authors": "Racquel Fygenson, Lace M. K. Padilla",
+            "year": "2025"
+        },
+        {
+            "title": "The Effect of Visual Aids on Reading Numeric Data Tables.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456403",
+            "authors": "Yongfeng Ji, Charles Perin, Miguel A. Nacenta",
+            "year": "2025"
+        },
+        {
+            "title": "Quantifying Emotional Responses to Immutable Data Characteristics and Designer Choices in Data Visualizations.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456361",
+            "authors": "Carter Blair, Xiyao Wang, Charles Perin",
+            "year": "2025"
+        },
+        {
+            "title": "Attention-Aware Visualization: Tracking and Responding to User Perception Over Time.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456300",
+            "authors": "Arvind Srinivasan, Johannes Ellemose, Peter W. S. Butcher, Panagiotis D. Ritsos, Niklas Elmqvist",
+            "year": "2025"
+        },
+        {
+            "title": "Improved Visual Saliency of Graph Clusters with Orderable Node-Link Layouts.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456167",
+            "authors": "Nora Al-Naami, Nicolas Médoc, Matteo Magnani, Mohammad Ghoniem",
+            "year": "2025"
+        },
+        {
+            "title": "Quality Metrics and Reordering Strategies for Revealing Patterns in BioFabric Visualizations.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456312",
+            "authors": "Johannes Fuchs, Alexander Frings, Maria-Viktoria Heinle, Daniel A. Keim, Sara Di Bartolomeo",
+            "year": "2025"
+        },
+        {
+            "title": "SpreadLine: Visualizing Egocentric Dynamic Influence.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456373",
+            "authors": "Yun-Hsin Kuo, Dongyu Liu, Kwan-Liu Ma",
+            "year": "2025"
+        },
+        {
+            "title": "Evaluating and Extending Speedup Techniques for Optimal Crossing Minimization in Layered Graph Drawings.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456349",
+            "authors": "Connor Wilson, Eduardo Puerta, Tarik Crnovrsanin, Sara Di Bartolomeo, Cody Dunne",
+            "year": "2025"
+        },
+        {
+            "title": "What University Students Learn In Visualization Classes.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456291",
+            "authors": "Maryam Hedayati, Matthew Kay",
+            "year": "2025"
+        },
+        {
+            "title": "PREVis: Perceived Readability Evaluation for Visualizations.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456318",
+            "authors": "Anne-Flore Cabouat, Tingying He, Petra Isenberg, Tobias Isenberg",
+            "year": "2025"
+        },
+        {
+            "title": "Promises and Pitfalls: Using Large Language Models to Generate Visualization Items.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456309",
+            "authors": "Yuan Cui, Lily W. Ge, Yiren Ding, Lane Harrison, Fumeng Yang, Matthew Kay",
+            "year": "2025"
+        },
+        {
+            "title": "An Empirical Evaluation of the GPT-4 Multimodal Language Model on Visualization Literacy Tasks.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456155",
+            "authors": "Alexander Bendeck, John T. Stasko",
+            "year": "2025"
+        },
+        {
+            "title": "How Good (Or Bad) Are LLMs at Detecting Misleading Visualizations?",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456333",
+            "authors": "Leo Yu-Ho Lo, Huamin Qu",
+            "year": "2025"
+        },
+        {
+            "title": "\"It's a Good Idea to Put It Into Words\": Writing 'Rudders' in the Initial Stages of Visualization Design.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456324",
+            "authors": "Chase Stokes, Clara Hu, Marti A. Hearst",
+            "year": "2025"
+        },
+        {
+            "title": "Unveiling How Examples Shape Visualization Design Outcomes.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456407",
+            "authors": "Hannah K. Bako, Xinyi Liu, Grace Ko, Hyemi Song, Leilani Battle, Zhicheng Liu",
+            "year": "2025"
+        },
+        {
+            "title": "Practices and Strategies in Responsive Thematic Map Design: A Report from Design Workshops with Experts.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456352",
+            "authors": "Sarah Schöttler, Uta Hinrichs, Benjamin Bach",
+            "year": "2025"
+        },
+        {
+            "title": "Path-Based Design Model for Constructing and Exploring Alternative Visualisations.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456323",
+            "authors": "James Jackson, Panagiotis D. Ritsos, Peter W. S. Butcher, Jonathan C. Roberts",
+            "year": "2025"
+        },
+        {
+            "title": "Mind Drifts, Data Shifts: Utilizing Mind Wandering to Track the Evolution of User Experience with Data Visualizations.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456344",
+            "authors": "Anjana Arunkumar, Lace M. K. Padilla, Chris Bryan",
+            "year": "2025"
+        },
+        {
+            "title": "Understanding Visualization Authoring Techniques for Genomics Data in the Context of Personas and Tasks.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456298",
+            "authors": "Astrid van den Brandt, Sehi L'Yi, Huyen N. Nguyen, Anna Vilanova, Nils Gehlenborg",
+            "year": "2025"
+        },
+        {
+            "title": "Charting EDA: Characterizing Interactive Visualization Use in Computational Notebooks with a Mixed-Methods Formalism.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456217",
+            "authors": "Dylan Wootton, Amy Rae Fox, Evan Peck, Arvind Satyanarayan",
+            "year": "2025"
+        },
+        {
+            "title": "Ferry: Toward Better Understanding of Input/Output Space for Data Wrangling Scripts.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456328",
+            "authors": "Zhongsu Luo, Kai Xiong, Jiajun Zhu, Ran Chen, Xinhuan Shu, Di Weng, Yingcai Wu",
+            "year": "2025"
+        },
+        {
+            "title": "Loops: Leveraging Provenance and Visualization to Support Exploratory Data Analysis in Notebooks.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456186",
+            "authors": "Klaus Eckelt, Kiran Gadhave, Alexander Lex, Marc Streit",
+            "year": "2025"
+        },
+        {
+            "title": "Curio: A Dataflow-Based Framework for Collaborative Urban Visual Analytics.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456353",
+            "authors": "Gustavo Moreira, Maryam Hosseini, Carolina Veiga Ferreira de Souza, Lucas Alexandre, Nicola Colaninno, Daniel de Oliveira, Nivan Ferreira, Marcos Lage, Fabio Miranda",
+            "year": "2025"
+        },
+        {
+            "title": "ProvenanceWidgets: A Library of UI Control Elements to Track and Dynamically Overlay Analytic Provenance.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456144",
+            "authors": "Arpit Narechania, Kaustubh Odak, Mennatallah El-Assady, Alex Endert",
+            "year": "2025"
+        },
+        {
+            "title": "Discursive Patinas: Anchoring Discussions in Data Visualizations.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456334",
+            "authors": "Tobias Kauer, Derya Akbaba, Marian Dörk, Benjamin Bach",
+            "year": "2025"
+        },
+        {
+            "title": "Graph Transformer for Label Placement.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456141",
+            "authors": "Jingwei Qu, Pingshun Zhang, Enyu Che, Yinan Chen, Haibin Ling",
+            "year": "2025"
+        },
+        {
+            "title": "DataGarden: Formalizing Personal Sketches into Structured Visualization Templates.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456336",
+            "authors": "Anna Offenwanger, Theophanis Tsandilas, Fanny Chevalier",
+            "year": "2025"
+        },
+        {
+            "title": "Entanglements for Visualization: Changing Research Outcomes through Feminist Theory.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456171",
+            "authors": "Derya Akbaba, Lauren F. Klein, Miriah Meyer",
+            "year": "2025"
+        },
+        {
+            "title": "Aardvark: Composite Visualizations of Trees, Time-Series, and Images.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456193",
+            "authors": "Devin Lange, Robert Judson-Torres, Thomas Zangle, Alexander Lex",
+            "year": "2025"
+        },
+        {
+            "title": "VisEval: A Benchmark for Data Visualization in the Era of Large Language Models.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456320",
+            "authors": "Nan Chen, Yuge Zhang, Jiahang Xu, Kan Ren, Yuqing Yang",
+            "year": "2025"
+        },
+        {
+            "title": "VADIS: A Visual Analytics Pipeline for Dynamic Document Representation and Information-Seeking.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456339",
+            "authors": "Rui Qiu, Yamei Tu, Po-Yin Yen, Han-Wei Shen",
+            "year": "2025"
+        },
+        {
+            "title": "Rapid and Precise Topological Comparison with Merge Tree Neural Networks.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456395",
+            "authors": "Yu Qin, Brittany Terese Fasy, Carola Wenk, Brian Summa",
+            "year": "2025"
+        },
+        {
+            "title": "FPCS: Feature Preserving Compensated Sampling of Streaming Time Series Data.",
+            "link": "https://doi.org/10.1109/TVCG.2024.3456375",
+            "authors": "Hongyan Li, Bo Yang, Yansong Chua",
+            "year": "2025"
+        }
+    ]
+}
