@@ -119,5 +119,5 @@ def process_papers(json_file_path, output_file_path):
 # 示例使用
 if __name__ == "__main__":
     input_json = "cvpr-论文列表.json"  # 输入的 JSON 文件路径
-    output_jsonl = "cvpr-extracted_papers_details.jsonl"  # 输出的 JSON Lines 文件路径
+    output_jsonl = "cvpr-extracted_papers_details.json"  # 输出的 JSON Lines 文件路径
     process_papers(input_json, output_jsonl)
