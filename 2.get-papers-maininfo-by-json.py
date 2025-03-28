@@ -1,3 +1,4 @@
+# 根据上一个文件获取的论文链接爬取每篇论文地详细信息
 import requests
 from bs4 import BeautifulSoup
 import re
